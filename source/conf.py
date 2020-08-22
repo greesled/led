@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gree lamp and components'
-copyright = '2020, Lucia'
+copyright = '2020, Gree Lamp and Components Ltd'
 author = 'Lucia'
 
 # The full version, including alpha/beta/rc tags
